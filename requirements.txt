@@ -1,7 +1,9 @@
-streamlit==1.29.0
-pandas==2.1.4
-numpy==1.26.2
-matplotlib==3.8.2
-folium==0.15.1
-streamlit-folium==0.17.4
-sweetviz==2.3.1
+streamlit
+pandas<3
+numpy
+scipy
+matplotlib
+folium
+streamlit-folium
+sweetviz
+setuptools<81
